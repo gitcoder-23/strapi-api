@@ -1,0 +1,18 @@
+// bridge of cloudinary and strapi
+yarn add @strapi/provider-upload-cloudinary
+
+https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/configurations/required/databases.html#configuration-structure
+
+
+https://docs.strapi.io/user-docs/latest/content-manager/introduction-to-content-manager.html#collection-types
+
+// create a folder before upload in cloudinary
+
+https://forum.strapi.io/t/how-to-set-cloudinary-upload-option/1655/3
+
+// to catch image from strapi databases use
+http://localhost:1337/api/employees?populate=*
+
+
+
+
