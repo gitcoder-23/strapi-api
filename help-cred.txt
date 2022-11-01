@@ -13,6 +13,14 @@ https://forum.strapi.io/t/how-to-set-cloudinary-upload-option/1655/3
 // to catch image from strapi databases use
 http://localhost:1337/api/employees?populate=*
 
+// deploy to vercel
+https://market.strapi.io/plugins/strapi-plugin-vercel-deploy
+
+// heroku
+https://strapi.io/blog/strapi-online-meetup-4-recap
+
+https://youtu.be/rtxMYRLMxO0
+
 
 
 
