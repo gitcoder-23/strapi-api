@@ -3,14 +3,14 @@ module.exports = ({ env }) => ({
   // ...
   "vercel-deploy": {
     enabled: true,
-    // config: {
-    //   deployHook:
-    //     "https://api.vercel.com/v1/integrations/deploy/prj_<deploy-hook>",
-    //   apiToken: "<vercel-api-token>",
-    //   appFilter: "your-app-name-on-vercel",
-    //   teamFilter: "your-team-id-on-vercel",
-    //   roles: ["strapi-super-admin", "strapi-editor", "strapi-author"],
-    // },
+    config: {
+      deployHook:
+        "https://api.vercel.com/v1/integrations/deploy/prj_fr9OHMrpOViNcpco9EqK4UcTVp43/3d5rRnynCO",
+      apiToken: "6QqqOX8QouwfkA8H4TULt9x5",
+      appFilter: "strapi-api",
+      teamFilter: "",
+      roles: ["strapi-super-admin", "strapi-editor", "strapi-author"],
+    },
   },
   upload: {
     config: {
