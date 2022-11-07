@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "vcontactfields",
+  "info": {
+    "singularName": "vcontactfield",
+    "pluralName": "vcontactfields",
+    "displayName": "vcontactfield"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "cname": {
+      "type": "string"
+    },
+    "cemail": {
+      "type": "email"
+    },
+    "cmessage": {
+      "type": "text"
+    }
+  }
+}

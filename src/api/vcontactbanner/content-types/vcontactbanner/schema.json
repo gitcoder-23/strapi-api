@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "vcontactbanners",
+  "info": {
+    "singularName": "vcontactbanner",
+    "pluralName": "vcontactbanners",
+    "displayName": "vcontactbanner",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "contactbanner": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "contactheadertext": {
+      "type": "string"
+    },
+    "contactheaderdetail": {
+      "type": "text"
+    }
+  }
+}
