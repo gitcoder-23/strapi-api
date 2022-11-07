@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "vgalaries",
+  "info": {
+    "singularName": "vgalary",
+    "pluralName": "vgalaries",
+    "displayName": "vgalary",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "imageName": {
+      "type": "string"
+    },
+    "imageDetail": {
+      "type": "text"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

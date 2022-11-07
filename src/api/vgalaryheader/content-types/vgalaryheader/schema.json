@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "vgalaryheaders",
+  "info": {
+    "singularName": "vgalaryheader",
+    "pluralName": "vgalaryheaders",
+    "displayName": "vgalaryheader"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "gheadtitle": {
+      "type": "text"
+    }
+  }
+}
