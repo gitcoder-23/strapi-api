@@ -1,3 +1,9 @@
+// install strapi
+npx create-strapi-app@latest my-project --quickstart
+
+
+
+
 // bridge of cloudinary and strapi
 yarn add @strapi/provider-upload-cloudinary
 
