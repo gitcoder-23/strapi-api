@@ -28,5 +28,39 @@ https://strapi.io/blog/strapi-online-meetup-4-recap
 https://youtu.be/rtxMYRLMxO0
 
 
+// next js
+https://nextjs.org/docs/advanced-features/i18n-routing
+
+// Next js block website by geolocation place
+https://youtu.be/_TQ7ts1WJ7I
+
+
+
+
+
+
+// strapi best parctice
+https://strapi.io/blog/headless-cms-strapi-seo-best-practices
+
+https://strapi.io/blog/5-reasons-to-add-on-site-search-to-your-website
+
+
+https://dev.to/strapi/webhooks-and-how-to-use-them-in-strapi-34ni
+
+https://dev.to/melvnl/how-to-upload-a-file-imagepdfzipetc-to-strapi-with-react-35jd
+
+https://strapi.io/blog/implement-previews-with-next-applications-using-a-strapi-backend
+
+https://strapi.io/blog/build-a-blog-with-next-react-js-strapi
+
+https://strapi.io/blog/user-authentication-in-next-js-with-strapi
+
+
+
+
+
+
+
+
 
 
