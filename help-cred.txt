@@ -27,6 +27,7 @@ https://strapi.io/blog/strapi-online-meetup-4-recap
 https://strapi.io/blog/deploying-a-strapi-api-on-heroku
 https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/heroku.html#_6-install-the-pg-node-module
 https://youtu.be/rtxMYRLMxO0
+https://strapi.io/video-library/deploy-heroku-postgres-add-on
 
 
 // next js
