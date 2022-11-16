@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "dummy_apis",
+  "info": {
+    "singularName": "dummy-api",
+    "pluralName": "dummy-apis",
+    "displayName": "DummyApi",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "dummyApi": {
+      "type": "json"
+    },
+    "dummyApiUrl": {
+      "type": "string"
+    },
+    "dummyUrlMain": {
+      "type": "string"
+    }
+  }
+}
