@@ -2,6 +2,7 @@
   "name": "strapi-api",
   "you-tut": "https://youtu.be/-9k6mQF7Kjg",
   "you-tut2-tufan": "https://youtu.be/XdHjERK1nyk",
+  "heroku-deploy": "https://strapi-next-api.herokuapp.com",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
