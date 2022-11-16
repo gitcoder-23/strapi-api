@@ -21,10 +21,11 @@ http://localhost:1337/api/employees?populate=*
 
 // deploy to vercel
 https://market.strapi.io/plugins/strapi-plugin-vercel-deploy
+https://strapi.io/blog/strapi-online-meetup-4-recap
 
 // heroku deploy
-https://strapi.io/blog/strapi-online-meetup-4-recap
 https://strapi.io/blog/deploying-a-strapi-api-on-heroku
+https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/heroku.html#_6-install-the-pg-node-module
 https://youtu.be/rtxMYRLMxO0
 
 
