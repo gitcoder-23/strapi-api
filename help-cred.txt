@@ -22,9 +22,9 @@ http://localhost:1337/api/employees?populate=*
 // deploy to vercel
 https://market.strapi.io/plugins/strapi-plugin-vercel-deploy
 
-// heroku
+// heroku deploy
 https://strapi.io/blog/strapi-online-meetup-4-recap
-
+https://strapi.io/blog/deploying-a-strapi-api-on-heroku
 https://youtu.be/rtxMYRLMxO0
 
 
